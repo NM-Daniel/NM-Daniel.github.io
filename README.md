@@ -1,2 +1,2 @@
 # NM-Daniel.github.io
-For my portfolio website
+Go to NM-Daniel.github.io for to view my webpage.
